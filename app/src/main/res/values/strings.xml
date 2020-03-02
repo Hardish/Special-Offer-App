@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Special Offer App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="spalshimage">SpalshImage</string>
+    <string name="show_geofence">Show Geofence</string>
+    <string name="app_logo">App logo</string>
+    <string name="show_address">Show Address</string>
+    <string name="businessimagelogo">businessImageLogo</string>
+    <string name="qr_code_image">QR code image</string>
+</resources>
